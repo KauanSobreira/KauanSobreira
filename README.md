@@ -1,5 +1,5 @@
 - 👋 Sou o Kauan
-- 👾 Estudando HTML, CSS E Javascript 
+- 👾 Estudando HTML, CSS, Javascript e Python 
 
 
 <!---
